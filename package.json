@@ -1,7 +1,7 @@
 {
-  "name": "atom-ra",
+  "name": "atom-fr",
   "version": "1.0.0",
-  "description": "Propriedades do átomo de Rádio",
+  "description": "Propriedades do átomo de Frâncio",
   "main": "atom-ra.js",
   "dependencies": {},
   "devDependencies": {},
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suissa/atom-Ra.git"
+    "url": "git+https://github.com/suissa/atom-Fr.git"
   },
   "keywords": [
     "atom",
     "átomo",
-    "ra",
-    "rádio",
+    "fr",
+    "frâncio",
     "química",
     "chemistry",
     "webschool"
@@ -24,7 +24,7 @@
   "author": "Suissa",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/suissa/atom-Ra/issues"
+    "url": "https://github.com/suissa/atom-Fr/issues"
   },
-  "homepage": "https://github.com/suissa/atom-Ra#readme"
+  "homepage": "https://github.com/suissa/atom-Fr#readme"
 }
